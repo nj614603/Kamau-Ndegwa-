@@ -1,5 +1,5 @@
-Hi, I’m Ndegwa Joseph 
-I’m interested in utilizing data to effect sustainable change
-I’m currently learning APIs and model deployment
-I’m looking to collaborate on humanitarian development and programing 
-How to reach me: nj614603@gmail.com
+Name: Ndegwa Joseph 
+Theme: Humanitarian
+Objective: Utilizing data to effect sustainable change through 
+Interests: Community-based EIP and response programming 
+Reach out: nj614603@gmail.com
